@@ -1,0 +1,63 @@
+*{
+    font-family: 'Caveat', sans-serif;
+    background-color: #eeeeee;
+}
+.header{
+    text-align: center;
+    font-size: 50px;
+}
+.countdown{
+    background-color: #ffffff;
+    
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    max-width:fit-content;
+    margin: 50px auto;
+    background-color: #54bab9;
+    padding: 5px;
+    border-style: solid;
+}
+.countdown div{
+    font-size: 50px;
+
+}
+#day{
+    background-color: #ccd6a6;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #534340;
+    margin:3px;
+    color:#064635;
+    text-align: center;
+}
+#hour{
+    background-color: #dae2b6;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #534340;
+    margin:3px;
+    color:#064635;
+    text-align: center;
+}
+#minute{
+    background-color: #dfe8cc;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #534340;
+    margin:3px;
+    color:#064635;
+    text-align: center;
+}
+#second{
+    background-color: #f7eddb;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #534340;
+    margin:3px;
+    color:#064635;
+    text-align: center;
+    
+}
+
+
